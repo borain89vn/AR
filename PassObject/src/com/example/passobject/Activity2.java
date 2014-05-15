@@ -11,7 +11,7 @@ public class Activity2 extends Activity{
 		Person b ;
 		b= getIntent().getParcelableExtra("person");
 		String s;
-		s=b.getAddress();
+		s=b.getAddress();///edit
 	}
 
 }
