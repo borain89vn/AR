@@ -5,7 +5,7 @@ import android.os.Parcelable;
 
 public class Person implements Parcelable {
 	
-	private String name;
+	private String name;//asdfasdafsdasda
 	private String address;
 	public Person(){
 		name= null;
